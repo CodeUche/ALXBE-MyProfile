@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there 👋, I'm Precious Uche Eze</h1>
 <p align="center">
-  <i>Backend Developer | Web App Penetration Tester | Security Advocate</i><br>
+  <i>Backend Developer | Web App Penetration Tester </i><br>
   <b>Learner @ ALX SE | Building secure, scalable systems & breaking them for good</b>
 </p>
 
