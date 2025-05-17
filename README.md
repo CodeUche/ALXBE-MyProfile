@@ -8,18 +8,18 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-🎓 I’m currently diving deep into the **ALX Backend Development program**  
-🔐 Passionate about **creating scalable backend systems** and **safeguarding digital assets**  
-🧠 I believe in breaking systems to make them better — that’s why I specialize in **Web App Pentesting**  
-🎯 Long-term vision:  
-- 🌍 Become a globally sought-after backend dev and web app hacker in 3 years  
-- 🛡️ Launch a cybersecurity firm offering secure backend solutions & offensive testing in 5
+ I’m currently diving deep into the **ALX Backend Development program**  
+ Passionate about **creating scalable backend systems** and **safeguarding digital assets**  
+ I believe in breaking systems to make them better — that’s why I specialize in **Web App Pentesting**  
+ Long-term vision:  
+-  Become a globally sought-after backend dev and web app hacker in 3 years  
+-  Launch a cybersecurity firm offering secure backend solutions & offensive testing in 5
 
 ---
 
-## 🧰 Tech Stack & Tools
+##  Tech Stack & Tools
 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
@@ -32,14 +32,14 @@
 
 ---
 
-## 🧪 Current Projects
+##  Current Projects
 
 - 🔹 **TryHackMe Labs** – Practicing real-world pentesting on web apps and Linux machines  
 - 🔹 **Accessible IDE (Prototype)** – Designing an IDE for the visually impaired to code, debug, and deploy
 
 ---
 
-## 🧗 My Vision in Action
+##  My Vision in Action
 
 > *“Code should be accessible, secure, and scalable.”*  
 That’s why I’m building tools and workflows that support:
@@ -49,7 +49,7 @@ That’s why I’m building tools and workflows that support:
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Uche&show_icons=true&theme=radical" alt="stats" />
@@ -59,7 +59,7 @@ That’s why I’m building tools and workflows that support:
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 
 - 🖇️ [LinkedIn](https://linkedin.com/in/devsecopsguru)
 - 📚 [TryHackMe](https://tryhackme.com/p/kingwill)
